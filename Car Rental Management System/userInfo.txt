@@ -1,0 +1,2 @@
+DEUCENG;12345;Admin;Ali;Veli;5070957974
+kek;börek;Customer;Hasan;Hüseyin;5070957575;İzmir;Türkiye
